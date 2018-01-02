@@ -1,1 +1,1 @@
-# weeklybudget
+Not all games are necessarily equally advantageous for kids to play. Some games are highly educational, while other games are only about entertainment. This is a program for parents to control how much time their kids are spending on different games. Parents can choose a weekly budget for each steam game, according to how advantageous or disadvantageous they think the game is for their kids.
